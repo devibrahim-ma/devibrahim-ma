@@ -1,6 +1,6 @@
 ![Foto de Ibrahim](ibrahimdev.png)
 
-# Hola, soy Ibrahim 👋
+# Hola, soy Ibrahim 
 
 **Desarrollador Web Full Stack (Frontend & Backend)**
 
